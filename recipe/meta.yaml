@@ -34,7 +34,6 @@ requirements:
     - setuptools
     - setuptools_scm >=6.0
   run:
-    - cython >=0.24
     - matplotlib-base >=3.3
     - pint
     - pyparsing >=3.0
